@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hzTG6GJIsJ0=",
+  "success": true,
+  "projectFilePath": "/Users/juniormoraes/RiderProjects/HackerNewsApi/HackerNewsApi/HackerNewsApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/juniormoraes/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/juniormoraes/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
